@@ -1,0 +1,113 @@
+.hide {
+  display: none;
+}
+/* .ra2isi {
+  margin-left: auto;
+} */
+button {
+  margin-bottom: 20px;
+  width: 50px;
+  border-radius: 10px;
+}
+
+.show {
+  border-radius: 3px;
+  box-shadow: red;
+  /* max-width: min-content; */
+  width: 330px;
+  display: block;
+  background-color: lightskyblue;
+  margin-left: 4px;
+  padding-top: 1px;
+}
+.todoDone {
+  margin-top: 20px;
+  width: 250px;
+  background-color: yellow;
+  margin-left: 40px;
+  font-size: large;
+  margin-right: 100px;
+  box-shadow: blue;
+  border-radius: 6px;
+  margin-bottom: 6px;
+  text-decoration: line-through;
+}
+.input {
+  width: 200px;
+  height: 30px;
+  margin-left: 40px;
+  background-color: lightcoral;
+  font-size: large;
+  text-align-last: center;
+  border-radius: 3px;
+  margin-bottom: 6px;
+}
+.add {
+  background-color: lightcoral;
+  height: 30px;
+}
+.todo {
+  margin-top: 20px;
+  width: 250px;
+  background-color: yellow;
+  margin-left: 40px;
+  font-size: large;
+  margin-right: 100px;
+  box-shadow: blue;
+  border-radius: 3px;
+  margin-bottom: 6px;
+}
+.btnhide {
+  background-color: red;
+  font-size: large;
+  width: 100px;
+}
+
+.btnshow {
+  background-color: blue;
+  width: 100px;
+  font-size: large;
+  cursor: pointer;
+}
+
+.lessthan3 {
+  color: red;
+  font-weight: lighter;
+}
+
+.more {
+  font-weight: bold;
+  color: blue;
+}
+
+.four {
+  color: red;
+  font-weight: bolder;
+}
+
+.unchecked {
+  color: black;
+  font-size: larger;
+  background-color: lightgreen;
+}
+.text {
+  color: blue;
+  font-weight: bold;
+  font-size: x-large;
+  background-color: lightgreen;
+}
+.textwarning {
+  color: yellow;
+  font-size: x-large;
+  background-color: red;
+}
+
+.check {
+  color: white;
+  background-color: red;
+
+  margin-left: 45px;
+  width: 230px;
+  height: 30px;
+  border-radius: 50px;
+}
